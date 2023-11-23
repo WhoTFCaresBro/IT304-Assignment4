@@ -1,0 +1,5 @@
+layout: page
+title: index
+permalink: /index/
+
+<%include index.html%>
