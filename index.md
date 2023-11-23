@@ -1,7 +1,8 @@
 ---
 layout: page
-title: index
+title: Home
 permalink: /index/
+
 
 ---
 {%include index.html%}
