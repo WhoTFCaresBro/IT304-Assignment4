@@ -24,12 +24,12 @@ email: "dwelbor@gmu.edu"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/WhoTFCaresBro/IT304-Assignment4.git" # the base hostname & protocol for your site, e.g. http://example.com
 
+<link rel="stylesheet" href="https://whotfcaresbro.github.io/IT304-Assignment4/_site/assets/main.css">
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
