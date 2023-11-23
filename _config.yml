@@ -23,8 +23,7 @@ email: "dwelbor@gmu.edu"
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/WhoTFCaresBro/IT304-Assignment4.git" # the base hostname & protocol for your site, e.g. http://example.com
-
-<link rel="stylesheet" href="https://whotfcaresbro.github.io/IT304-Assignment4/_site/assets/main.css">
+root: /octo-5
 
 # Build settings
 theme: minima
